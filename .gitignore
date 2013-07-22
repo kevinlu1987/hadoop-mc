@@ -1,0 +1,11 @@
+*.jsp
+*.jar
+*.cache
+build/*
+*.rar
+*.tar
+*.zip
+*.log
+*.class
+target/*
+lib/*
